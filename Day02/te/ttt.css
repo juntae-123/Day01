@@ -1,0 +1,11 @@
+.Karina {
+  width: 100px;
+  margin-top: 10px;
+  font-weight: 50px;
+  text-align: center;
+}
+.photo {
+  width: 100px;
+  height: 100px;
+  border-radius: 9999px;
+}
